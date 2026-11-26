@@ -18,6 +18,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# Private uploaded documents
+private_uploads/
+backend/private_uploads/
+
 # Editor and OS temporary files
 .vscode/
 .idea/
